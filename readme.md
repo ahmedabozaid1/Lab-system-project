@@ -1,1 +1,1 @@
-this is One of my first projects from 2019 on labsystem
+this is One of my first projects from 2019 on labsystem using design patterns like mvc, factory, singleton, observer, and strategy design patterns. also included the embedding of view (html) in database to retrieve later, included is automated mail using phpmailer.
